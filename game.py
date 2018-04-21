@@ -12,7 +12,7 @@ class foo:
         print(self, self.name)
 
 
-a = foo('sada')
+a = foo('华大')
 a.n()
 
 
